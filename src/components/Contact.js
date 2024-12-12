@@ -3,12 +3,12 @@ import { FaLinkedin, FaGithub, FaEnvelope } from 'react-icons/fa';
 
 const Contact = () => {
   return (
-    <div name="contact" className="w-full min-h-screen bg-gray-100 dark:bg-gray-900 flex items-center justify-center">
+    <div id="contact" name="contact" className="w-full min-h-screen bg-gray-100 dark:bg-gray-900 flex items-center justify-center">
       <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8 text-center">
           <h2 className="text-4xl font-bold text-gray-900 dark:text-white">Contact Me</h2>
-          <p className="py-6 text-gray-600 dark:text-gray-300">
-            Let's connect and discuss potential opportunities
+          <p className="py-6 font-bold text-gray-600 dark:text-gray-300">
+            Let's connect :
           </p>
         </div>
 
@@ -30,7 +30,7 @@ const Contact = () => {
             <FaGithub className="text-6xl" />
           </a>
           <a 
-            href="mailto:vipulchavan3301@gmail.com"
+            href="mailto:vipulchavan3301@outlook.com"
             className="text-red-600 hover:text-red-800 dark:text-red-400 dark:hover:text-red-600 transition-colors"
           >
             <FaEnvelope className="text-6xl" />

@@ -39,7 +39,7 @@ const Home = () => {
           <div className="max-w-xl mx-auto">
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
               Passionate about creating innovative solutions and pushing the boundaries of web technology. 
-              I transform complex problems into elegant, efficient digital experiences.
+              I enjoy building efficient solutions and continuously exploring new technologies to enhance my expertise.
             </p>
           </div>
 

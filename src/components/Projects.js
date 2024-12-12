@@ -29,17 +29,17 @@ const Projects = () => {
     {
       title: 'Tiffin Subscription Service',
       description: 'A platform for ordering tiffins from different food providers based on user preferences. Built using HTML, CSS, JavaScript, and NodeJS.',
-      githubLink: 'https://github.com/yourusername/tiffin-subscription-service'
+      githubLink: 'https://github.com/vipulchavan47'
     },
     {
       title: 'Employee Management System',
       description: 'A Java and MySQL-based application to manage employee records, including CRUD operations and data analytics.',
-      githubLink: 'https://github.com/yourusername/employee-management-system'
+      githubLink: 'https://github.com/vipulchavan47/employee-management'
     },
     {
       title: 'Text-to-Speech Application',
       description: 'A Python-based app using pyttsx3 and pytesseract for converting text from images and PDFs into speech.',
-      githubLink: 'https://github.com/yourusername/text-to-speech-application'
+      githubLink: 'https://github.com/vipulchavan47/python-tts'
     }
   ];
 
@@ -51,7 +51,7 @@ const Projects = () => {
             My Projects
           </h2>
           <p className="py-6 text-lg text-gray-600 dark:text-gray-300">
-            Explore my recent projects, built with passion and creativity. Click on each to view the source code.
+            Explore my recent projects:
           </p>
         </div>
 
