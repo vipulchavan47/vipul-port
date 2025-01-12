@@ -27,9 +27,9 @@ const ProjectCard = ({ title, description, githubLink }) => (
 const Projects = () => {
   const projects = [
     {
-      title: 'Tiffin Subscription Service',
-      description: 'A platform for ordering tiffins from different food providers based on user preferences. Built using HTML, CSS, JavaScript, and NodeJS.',
-      githubLink: 'https://github.com/vipulchavan47'
+      title: 'TypeTurtle: Typing Speed Tester',
+    description: 'An interactive platform to test and improve typing speed and accuracy. Built using HTML, CSS, JavaScript.It offers real-time analytics (WPM and accuracy), and an engaging user experience.',
+    githubLink: 'https://github.com/vipulchavan47/TypeTurtle',
     },
     {
       title: 'Employee Management System',
