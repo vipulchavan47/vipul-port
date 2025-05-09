@@ -30,7 +30,7 @@ const Contact = () => {
             <FaGithub className="text-6xl" />
           </a>
           <a 
-            href="mailto:vipulchavan3301@outlook.com"
+            href="mailto:vipulchavan3301@gmail.com"
             className="text-red-600 hover:text-red-800 dark:text-red-400 dark:hover:text-red-600 transition-colors"
           >
             <FaEnvelope className="text-6xl" />
